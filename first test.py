@@ -47,3 +47,16 @@ orig_func()
 # Closures in Python
  #the inner_func has the full access to the environment (variables) in it’s enclosing scope. That is closure.
  
+ 
+  #####Dictionary in Python
+ #A Python dictionary is a collection of items in no particular order. Python dictionaries are written in curly brackets with #keys and values. Dictionaries are optimised to retrieve value for known keys.
+
+ ####List comprehensions are used for transforming one list into another list. Elements can be conditionally included in the new list and each element can be transformed as needed. It consists of an expression leading a for clause, enclosed in brackets. for ex: list = [i for i in range(1000)]
+#list comprehension are used for transforming one list into another list.
+
+
+###The map() function in Python is used for applying a function on all elements of a specified iterable.
+
+##Note that Number values, strings, and tuple are immutable while as List or Dictionary object are mutable.
+
+##Strip() function is used to remove the leading and trailing white spaces while the replace() function is used to remove all the white spaces in the string:
